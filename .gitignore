@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Streamlit
+.streamlit/
+
+# Data/indexes
+faiss_index/
+
+# Audio outputs
+*.mp3
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
